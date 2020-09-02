@@ -1,0 +1,62 @@
+{
+  "webcards": [
+    {
+      "id": 0,
+      "name": "HTML | CSS",
+      "image": "images/web.jpg",
+      "description": "In this we cover all the basic functionalities of HTML and CSS",
+      "linkto" : "/bootstrap" 
+    },
+    {
+      "id": 1,
+      "name": "React JS",
+      "image": "images/web.jpg",
+      "description": "In this we cover all the basic functionalities of HTML and CSS",
+      "linkto" : "/reactjs" 
+    }
+  ],
+  "progcards": [
+    {
+      "id": 0,
+      "name": "HTML | CSS",
+      "image": "images/web.jpg",
+      "description": "In this we cover all the basic functionalities of HTML and CSS",
+      "linkto" : "/reactjs" 
+    },
+    {
+      "id": 1,
+      "name": "React JS",
+      "image": "images/web.jpg",
+      "description": "In this we cover all the basic functionalities of HTML and CSS",
+      "linkto" : "/reactjs" 
+    }
+  ],
+  "draweritem" : [
+    {
+      "id" : 0,
+      "name" : "Introduction",
+      "route" : "introduction"
+    },
+    {
+      "id" : 1,
+      "name" : "Headers",
+      "route" : "headers"
+    },
+    {
+      "id" : 2,
+      "name" : "Introduction 🚀",
+      "route" : "/description"
+    },
+    {
+      "id" : 3,
+      "name" : "content 2",
+      "route" : "/description"
+    },
+    {
+      "id" : 4,
+      "name" : "Content",
+      "route" : "/description"
+    }
+  ]
+}
+
